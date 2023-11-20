@@ -1,5 +1,5 @@
-<h1 align="center">Hello there 👋, Welcome to my profile I'm Vishwas P</h1>
-<h3 align="center">A passionate AIML Post Graduate student at Manipal</h3>
+<h1 align="center">Hello there 👋, Welcome to my profile</h1>
+<h3 align="center"> I'm Vishwas P, A passionate AIML Post Graduate student at Manipal</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasprabhakara" alt="vishwasprabhakara" /></a> </p>
 
