@@ -62,7 +62,7 @@ Reach me at **vp14032001@gmail.com**.
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
 Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence, response caching.
 
-**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP
+**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP<br/>
 **Built for:** Google Cloud Gen AI Academy APAC Hackathon 2026
 
 </td>
