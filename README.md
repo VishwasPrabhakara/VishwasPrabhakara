@@ -2,7 +2,7 @@
 
 # Hi, I'm Vishwas 👋
 
-**Machine Learning Engineer @ Indian Institute of Science (IISc)**
+**Machine Learning Engineer @ Indian Institute of Science (IISc)** <br />
 Building ML systems where the data is messy, the stakes are real, and the model has to work outside a notebook.
 
 ![Profile views](https://komarev.com/ghpvc/?username=VishwasPrabhakara&color=blueviolet&style=flat&label=Profile+Views)
@@ -11,9 +11,9 @@ Building ML systems where the data is messy, the stakes are real, and the model 
 
 ---
 
-I work at the **IISc Centre for Sustainable Technologies**, building groundwater monitoring and forecasting systems for Bengaluru — in collaboration with **BWSSB** and **KrushiHrudaya**. On the side, I build multi-agent AI systems, LLM tooling, and cloud-deployed ML services.
+I work at the **Centre for Sustainable Technologies, IISc**, building groundwater monitoring and forecasting systems for Bengaluru — in collaboration with **BWSSB** and **KrushiHrudaya**. On the side, I build multi-agent AI systems, LLM tooling, and cloud-deployed ML services.
 
-**📬 **📬 Open to opportunities — full-time roles in Bengaluru, Hyderabad, or Chennai, remote positions, and freelance projects.**
+**📬 Open to opportunities — full-time roles in Bengaluru, Hyderabad, or Chennai, remote positions, and freelance projects.**
 Reach me at **vp14032001@gmail.com**.
 
 ---
@@ -139,7 +139,7 @@ Conference platform built for an IISc event — registration, sessions, and admi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-prabhakara-2050821b6/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VishwasPrabhakara)
 
-**Location:** Bengaluru, India
+**Location:** Bengaluru, India <br/>
 **Open to:** Full-time roles in Bengaluru · Hyderabad · Chennai · Remote · Freelance
 
 If you're hiring, freelancing, or just want to nerd out about agents, geospatial ML, or how to keep a sensor network honest — drop a line.
