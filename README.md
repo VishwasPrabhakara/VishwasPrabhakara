@@ -86,7 +86,7 @@ MCP-powered foreign exchange agent built on the Frankfurter API. Deployed on Clo
 </td>
 <td width="50%" valign="top">
 
-#### 🏛️ [STISV](https://github.com/VishwasPrabhakara/STISV)
+#### 🏛️ [STISV](https://materials.iisc.ac.in/stis2025/)
 Conference platform built for an IISc event — registration, sessions, and admin tooling.
 
 **Stack:** JavaScript · React · Node.js
