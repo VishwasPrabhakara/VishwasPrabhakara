@@ -11,7 +11,7 @@ Building ML systems where the data is messy, the stakes are real, and the model 
 
 ---
 
-I work at the **Centre for Sustainable Technologies, IISc**, building groundwater monitoring and forecasting systems for Bengaluru — in collaboration with **BWSSB** and **KrushiHrudaya**. On the side, I build multi-agent AI systems, LLM tooling, and cloud-deployed ML services.
+I work at the **Centre for Sustainable Technologies, IISc**, building groundwater monitoring and forecasting systems for Bengaluru — in collaboration with **BWSSB**. On the side, I build multi-agent AI systems, LLM tooling, and cloud-deployed ML services.
 
 **📬 Open to opportunities — full-time roles in Bengaluru, Hyderabad, or Chennai, remote positions, and freelance projects.**
 Reach me at **vp14032001@gmail.com**.
