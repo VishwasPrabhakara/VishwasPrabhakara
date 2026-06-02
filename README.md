@@ -97,31 +97,21 @@ Conference platform built for an IISc event — registration, sessions, and admi
 
 ---
 
-### 📌 More Repositories
-
-<a href="https://github.com/VishwasPrabhakara/sutra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwasPrabhakara&repo=sutra&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/VishwasPrabhakara/smart-text-agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwasPrabhakara&repo=smart-text-agent&theme=tokyonight&hide_border=true" />
-</a>
-
----
 
 ### 📊 GitHub Stats
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=VishwasPrabhakara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VishwasPrabhakara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwasPrabhakara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VishwasPrabhakara&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" />
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=VishwasPrabhakara&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=VishwasPrabhakara&theme=tokyonight&hide_border=true" />
 
 ---
 
