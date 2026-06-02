@@ -78,7 +78,7 @@ Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru 
 <tr>
 <td width="50%" valign="top">
 
-#### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/smart-text-agent)
+#### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
 MCP-powered foreign exchange agent built on the Frankfurter API. Deployed on Cloud Run as a Gen AI Academy Track 1 submission.
 
 **Stack:** Python · MCP · Frankfurter API · Cloud Run
