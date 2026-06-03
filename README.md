@@ -52,7 +52,6 @@ Reach me at **vp14032001@gmail.com**.
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 ---
-
 ### 🚀 Featured Projects
 
 <table>
@@ -62,7 +61,7 @@ Reach me at **vp14032001@gmail.com**.
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
 Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence, response caching.
 
-**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP<br/>
+**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP
 **Built for:** Google Cloud Gen AI Academy APAC Hackathon 2026
 
 </td>
@@ -79,24 +78,31 @@ Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru 
 <td width="50%" valign="top">
 
 #### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
-MCP-powered foreign exchange agent built on the Frankfurter API. Deployed on Cloud Run as a Gen AI Academy Track 1 submission.
+ADK + MCP agent connecting to the Frankfurter API for real-time rates, conversions, historical lookups, and trend analysis. Embedded MCP server in a single Cloud Run container — clean separation between AI reasoning and data access.
 
-**Stack:** Python · MCP · Frankfurter API · Cloud Run
+**Stack:** Python · Google ADK · MCP · Gemini 2.5 Flash · Cloud Run
+**Built for:** Gen AI Academy Track 1
 
 </td>
 <td width="50%" valign="top">
 
-#### 🏛️ [STISV](https://materials.iisc.ac.in/stis2025/)
-Conference platform built for an IISc event — registration, sessions, and admin tooling.
+#### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
+Hybrid-retrieval RAG over your PDFs. Semantic (FAISS) + keyword (BM25) search fused via Reciprocal Rank Fusion, cross-encoder reranking, and Gemini for grounded answers with `[N]` citations including page numbers and exact excerpts.
 
-**Stack:** JavaScript · React · Node.js
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25 · Cross-encoders
+**Live:** _(paste your Streamlit Cloud URL after deploy)_
 
 </td>
 </tr>
 </table>
 
----
+### Other work
 
+📝 **[SmartText Agent](https://github.com/VishwasPrabhakara/smart-text-agent)** — Multi-capability text processing agent (summarize, Q&A, classify, analyze, route) · ADK + Gemini · Cloud Run
+
+🏛️ **[STISV](https://materials.iisc.ac.in/stis2025/)** — Conference platform built for an IISc event · React + Node.js
+
+---
 
 ### 📊 GitHub Stats
 
