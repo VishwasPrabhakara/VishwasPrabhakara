@@ -89,8 +89,8 @@ ADK + MCP agent connecting to the Frankfurter API for real-time rates, conversio
 #### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
 Hybrid-retrieval RAG over your PDFs. Semantic (FAISS) + keyword (BM25) search fused via Reciprocal Rank Fusion, cross-encoder reranking, and Gemini for grounded answers with `[N]` citations including page numbers and exact excerpts.
 
-**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25 · Cross-encoders
-**Live:** _(paste your Streamlit Cloud URL after deploy)_
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25 · Cross-encoders <br />
+**Live:** https://vishwas-paperlens-chat-with-pdf.streamlit.app/
 
 </td>
 </tr>
