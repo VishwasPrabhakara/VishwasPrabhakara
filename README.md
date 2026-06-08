@@ -61,7 +61,7 @@ Reach me at **vp14032001@gmail.com**.
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
 Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence, response caching.
 
-**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP
+**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP <br/>
 **Built for:** Google Cloud Gen AI Academy APAC Hackathon 2026
 
 </td>
@@ -80,7 +80,7 @@ Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru 
 #### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
 ADK + MCP agent connecting to the Frankfurter API for real-time rates, conversions, historical lookups, and trend analysis. Embedded MCP server in a single Cloud Run container — clean separation between AI reasoning and data access.
 
-**Stack:** Python · Google ADK · MCP · Gemini 2.5 Flash · Cloud Run
+**Stack:** Python · Google ADK · MCP · Gemini 2.5 Flash · Cloud Run<br/>
 **Built for:** Gen AI Academy Track 1
 
 </td>
