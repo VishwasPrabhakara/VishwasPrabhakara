@@ -23,6 +23,8 @@ Reach me at **vp14032001@gmail.com**.
 - **Groundwater Level Prediction (IISc × BWSSB)** — Time-series + geospatial ML across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + Mutual Information).
 - **Sensor Data Pipeline (KrushiHrudaya)** — Rolling-MAD spike detection, UID-level noise classification, and automated CGWB-style reporting for 193+ active sensors.
 - **[Sutra](https://github.com/VishwasPrabhakara/sutra)** — A multi-agent AI chief-of-staff. 6 specialized sub-agents orchestrated via Gemini function calling. Built solo for Google Cloud Gen AI Academy APAC Hackathon 2026.
+- **DataLens** (just shipped) — Chat-with-your-database with 5-agent SQL pipeline and self-correcting validation. Same "Lens" architecture as PaperLens, different data source.
+- **Applying to ML Engineer roles** — Bengaluru, Hyderabad, Chennai, or remote. [Reach me](mailto:vp14032001@gmail.com).
 
 ---
 
@@ -59,16 +61,36 @@ Reach me at **vp14032001@gmail.com**.
 <td width="50%" valign="top">
 
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
-Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence, response caching.
+Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence.
 
-**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP <br/>
-**Built for:** Google Cloud Gen AI Academy APAC Hackathon 2026
+**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP
+**Live:** https://sutra-frontend-381066349460.us-central1.run.app
+
+</td>
+<td width="50%" valign="top">
+
+#### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
+Hybrid-retrieval RAG over PDFs. FAISS + BM25 fused via Reciprocal Rank Fusion, cross-encoder reranking, and Gemini for grounded answers with `[N]` citations.
+
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25
+**Live:** https://vishwas-paperlens-chat-with-pdf.streamlit.app/
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 [DataLens](https://github.com/VishwasPrabhakara/datalens)
+Chat with any database. 5-agent SQL pipeline (Schema → SQL → Validator → Corrector → Insight). Self-correcting SQL validation via `sqlglot` + EXPLAIN dry-runs. Bring your own SQLite or Postgres URI.
+
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · sqlglot · Plotly
+**Live:** _(replace with your live URL after deploy)_
 
 </td>
 <td width="50%" valign="top">
 
 #### 💧 Groundwater Forecasting (IISc × BWSSB)
-Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + MI), ablation across lags, climate, built-up area, and seasonality.
+Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + MI), ablation across lags, climate, built-up area, seasonality.
 
 **Stack:** Python · scikit-learn · pandas · GeoJSON · Leaflet · Chart.js
 
@@ -78,19 +100,17 @@ Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru 
 <td width="50%" valign="top">
 
 #### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
-ADK + MCP agent connecting to the Frankfurter API for real-time rates, conversions, historical lookups, and trend analysis. Embedded MCP server in a single Cloud Run container — clean separation between AI reasoning and data access.
+ADK + MCP agent on the Frankfurter API. Real-time rates, conversions, historical lookups, trend analysis. Embedded MCP server in a single Cloud Run container.
 
-**Stack:** Python · Google ADK · MCP · Gemini 2.5 Flash · Cloud Run<br/>
-**Built for:** Gen AI Academy Track 1
+**Stack:** Python · Google ADK · MCP · Gemini · Cloud Run
 
 </td>
 <td width="50%" valign="top">
 
-#### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
-Hybrid-retrieval RAG over your PDFs. Semantic (FAISS) + keyword (BM25) search fused via Reciprocal Rank Fusion, cross-encoder reranking, and Gemini for grounded answers with `[N]` citations including page numbers and exact excerpts.
+#### 📝 [SmartText Agent](https://github.com/VishwasPrabhakara/smart-text-agent)
+Five text-processing capabilities (summarize, Q&A, classify, analyze, route) unified under one Gemini-powered ADK agent with intent routing.
 
-**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25 · Cross-encoders <br />
-**Live:** https://vishwas-paperlens-chat-with-pdf.streamlit.app/
+**Stack:** Python · Google ADK · Gemini · Cloud Run
 
 </td>
 </tr>
@@ -98,9 +118,12 @@ Hybrid-retrieval RAG over your PDFs. Semantic (FAISS) + keyword (BM25) search fu
 
 ### Other work
 
-📝 **[SmartText Agent](https://github.com/VishwasPrabhakara/smart-text-agent)** — Multi-capability text processing agent (summarize, Q&A, classify, analyze, route) · ADK + Gemini · Cloud Run
+#### [STISV](https://github.com/VishwasPrabhakara/STISV_Server)
 
-🏛️ **[STISV](https://materials.iisc.ac.in/stis2025/)** — Conference platform built for an IISc event · React + Node.js
+Production conference management platform developed for STIS-V 2025 at IISc.
+
+**Tech Stack:** React, Node.js, Express, MongoDB  
+**Features:** PDF generation, conference workflow management  
 
 ---
 
