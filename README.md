@@ -63,7 +63,7 @@ Reach me at **vp14032001@gmail.com**.
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
 Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence.
 
-**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP
+**Stack:** Python · FastAPI · Gemini · React · TypeScript · GCP  <br/>
 **Live:** https://sutra-frontend-381066349460.us-central1.run.app
 
 </td>
@@ -72,7 +72,7 @@ Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gem
 #### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
 Hybrid-retrieval RAG over PDFs. FAISS + BM25 fused via Reciprocal Rank Fusion, cross-encoder reranking, and Gemini for grounded answers with `[N]` citations.
 
-**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · BM25  <br />
 **Live:** https://vishwas-paperlens-chat-with-pdf.streamlit.app/
 
 </td>
@@ -83,8 +83,8 @@ Hybrid-retrieval RAG over PDFs. FAISS + BM25 fused via Reciprocal Rank Fusion, c
 #### 📊 [DataLens](https://github.com/VishwasPrabhakara/datalens)
 Chat with any database. 5-agent SQL pipeline (Schema → SQL → Validator → Corrector → Insight). Self-correcting SQL validation via `sqlglot` + EXPLAIN dry-runs. Bring your own SQLite or Postgres URI.
 
-**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · sqlglot · Plotly
-**Live:** _(replace with your live URL after deploy)_
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · sqlglot · Plotly <br/>
+**Live:** https://vishwas-datalens-chat-with-database.streamlit.app/
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,8 @@ Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru 
 #### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
 ADK + MCP agent on the Frankfurter API. Real-time rates, conversions, historical lookups, trend analysis. Embedded MCP server in a single Cloud Run container.
 
-**Stack:** Python · Google ADK · MCP · Gemini · Cloud Run
+**Stack:** Python · Google ADK · MCP · Gemini · Cloud Run <br/>
+**Live** https://currency-agent-381066349460.us-central1.run.app/dev-ui/
 
 </td>
 <td width="50%" valign="top">
@@ -110,7 +111,8 @@ ADK + MCP agent on the Frankfurter API. Real-time rates, conversions, historical
 #### 📝 [SmartText Agent](https://github.com/VishwasPrabhakara/smart-text-agent)
 Five text-processing capabilities (summarize, Q&A, classify, analyze, route) unified under one Gemini-powered ADK agent with intent routing.
 
-**Stack:** Python · Google ADK · Gemini · Cloud Run
+**Stack:** Python · Google ADK · Gemini · Cloud Run <br/>
+**Live:** https://smart-text-agent-381066349460.us-central1.run.app/dev-ui/
 
 </td>
 </tr>
