@@ -20,12 +20,10 @@ Reach me at **vp14032001@gmail.com**.
 
 ### 🔭 What I'm working on right now
 
-- **Groundwater Level Prediction (IISc × BWSSB)** — Time-series + geospatial ML across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + Mutual Information).
-- **Sensor Data Pipeline (KrushiHrudaya)** — Rolling-MAD spike detection, UID-level noise classification, and automated CGWB-style reporting for 193+ active sensors.
-- **[Sutra](https://github.com/VishwasPrabhakara/sutra)** — A multi-agent AI chief-of-staff. 6 specialized sub-agents orchestrated via Gemini function calling. Built solo for Google Cloud Gen AI Academy APAC Hackathon 2026.
-- **DataLens** (just shipped) — Chat-with-your-database with 5-agent SQL pipeline and self-correcting validation. Same "Lens" architecture as PaperLens, different data source.
-- **Applying to ML Engineer roles** — Bengaluru, Hyderabad, Chennai, or remote. [Reach me](mailto:vp14032001@gmail.com).
-
+- **[Groundwater Level Prediction (IISc × BWSSB)](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)** — Time-series + geospatial ML across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection.
+- **[MatchLens](https://github.com/VishwasPrabhakara/matchlens)** (just shipped) — Resume/JD matcher with embedding drift detection. Built it to optimize my own job search.
+- **[DataLens](https://github.com/VishwasPrabhakara/datalens)** (just shipped) — Chat-with-your-database. 5-agent SQL pipeline with self-correcting validation.
+- **Applying actively** — ML Engineer roles in Bengaluru, Hyderabad, Chennai, or remote. [Reach me](mailto:vp14032001@gmail.com).
 ---
 
 ### 🛠️ Tech Stack
@@ -97,8 +95,15 @@ Chat with any database. 5-agent SQL pipeline (Schema → SQL → Validator → C
 
 </td>
 </tr>
-
 <tr>
+<td width="50%" valign="top"> 
+  
+#### 🎯 [MatchLens](https://github.com/VishwasPrabhakara/matchlens)
+Resume ↔ JD matcher with multi-faceted embedding scoring, categorized skill-gap analysis, and embedding drift detection over time. Snapshots every JD and tells you which skills are rising in the market — and whether your profile is keeping pace.
+
+**Stack:** Python · Streamlit · LangChain · Gemini · FAISS · scikit-learn · scipy · SQLite + Parquet
+**Live:** https://vishwas-matchlens-resume-analyzer.streamlit.app/
+</td>
 <td width="50%" valign="top">
 
 #### 💱 [CurrencyBot](https://github.com/VishwasPrabhakara/currency-bot)
@@ -108,6 +113,9 @@ ADK + MCP agent on the Frankfurter API. Real-time rates, conversions, historical
 **Live** https://currency-agent-381066349460.us-central1.run.app/dev-ui/
 
 </td>
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 #### 📝 [SmartText Agent](https://github.com/VishwasPrabhakara/smart-text-agent)
