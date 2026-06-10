@@ -60,6 +60,14 @@ Reach me at **vp14032001@gmail.com**.
 <tr>
 <td width="50%" valign="top">
 
+#### 💧 [Groundwater Forecasting (IISc × BWSSB)](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)
+Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + MI), ablation across lags, climate, built-up area, seasonality.
+
+**Stack:** Python · scikit-learn · pandas · GeoJSON · Leaflet · Chart.js
+
+</td>
+<td width="50%" valign="top">
+
 #### 🧠 [Sutra](https://github.com/VishwasPrabhakara/sutra)
 Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gemini function calling. FastAPI + Cloud Run backend, React/TypeScript frontend, SQLite persistence.
 
@@ -67,6 +75,9 @@ Multi-agent AI chief-of-staff with 6 specialized sub-agents orchestrated via Gem
 **Live:** https://sutra-frontend-381066349460.us-central1.run.app
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 #### 📄 [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
@@ -76,8 +87,6 @@ Hybrid-retrieval RAG over PDFs. FAISS + BM25 fused via Reciprocal Rank Fusion, c
 **Live:** https://vishwas-paperlens-chat-with-pdf.streamlit.app/
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 📊 [DataLens](https://github.com/VishwasPrabhakara/datalens)
@@ -87,15 +96,8 @@ Chat with any database. 5-agent SQL pipeline (Schema → SQL → Validator → C
 **Live:** https://vishwas-datalens-chat-with-database.streamlit.app/
 
 </td>
-<td width="50%" valign="top">
-
-#### 💧 [Groundwater Forecasting (IISc × BWSSB)](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)
-Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + MI), ablation across lags, climate, built-up area, seasonality.
-
-**Stack:** Python · scikit-learn · pandas · GeoJSON · Leaflet · Chart.js
-
-</td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
