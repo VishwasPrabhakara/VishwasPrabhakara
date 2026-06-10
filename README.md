@@ -89,7 +89,7 @@ Chat with any database. 5-agent SQL pipeline (Schema → SQL → Validator → C
 </td>
 <td width="50%" valign="top">
 
-#### 💧 Groundwater Forecasting (IISc × BWSSB)
+#### 💧 [Groundwater Forecasting (IISc × BWSSB)](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)
 Time-series + geospatial ML predicting groundwater levels across 100+ Bengaluru wards. R² up to 0.9 with two-stage feature selection (Pearson + MI), ablation across lags, climate, built-up area, seasonality.
 
 **Stack:** Python · scikit-learn · pandas · GeoJSON · Leaflet · Chart.js
