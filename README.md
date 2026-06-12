@@ -1,6 +1,6 @@
-# Vishwas Prabhakara
+<h1 align="center">Vishwas Prabhakara</h1>
 
-### Applied Machine Learning Engineer
+<h3 align="center">Project Assistant (AIML) @ IISc | Forecasting, Environmental ML & LLM Systems</h3>
 
 I build and evaluate machine-learning systems for real-world data problems, with a focus on **time-series forecasting, environmental data, retrieval systems, and deployable Python applications**.
 
@@ -12,72 +12,15 @@ My current work at the **Centre for Sustainable Technologies, Indian Institute o
 
 ---
 
-## Selected Work
+## Featured Projects
 
-### [Bengaluru Groundwater Forecasting](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)
-
-Confidential applied-ML project for six-month groundwater-level forecasting across selected Bengaluru wards. The public repository documents the methodology and aggregate results without exposing institutional data, source code, ward identifiers, or trained artifacts.
-
-- 37 wards and 3,552 monthly ward observations from 2016-2023
-- Leakage-safe fixed-origin temporal backtesting
-- Three development forecast origins and an untouched January-June 2023 final test
-- Compared Ridge, XGBoost, a heterogeneous stack, and statistical baselines
-- Ridge was selected on development stability and achieved **R² 0.606**, **MAE 3.63 m**, and **RMSE 6.08 m** on 222 final-test predictions
-- Analysis showed that forecast error increased materially beyond the three-month horizon
-
-`Time-series forecasting` `Temporal validation` `scikit-learn` `XGBoost` `Environmental ML`
-
----
-
-### [STIS-V Conference Platform](https://github.com/VishwasPrabhakara/STISV)
-
-Full-stack conference workflow platform developed for STIS-V 2025 at IISc.
-
-- React frontend with a Node.js and Express backend
-- Supported conference information and participant-facing workflows
-- Included document-generation and submission-related functionality
-- Separate [backend repository](https://github.com/VishwasPrabhakara/STISV_Server)
-
-`React` `Node.js` `Express` `REST APIs`
-
----
-
-### [DataLens](https://github.com/VishwasPrabhakara/datalens)
-
-Natural-language interface for querying relational databases with schema-aware retrieval, SQL generation, validation, correction, and chart generation.
-
-- Retrieves relevant schema context instead of placing the entire database schema in every prompt
-- Validates generated SQL before execution
-- Includes automated tests for retrieval, profiling, SQL generation, validation, and correction
-- Supports local SQLite workflows and database exploration through a Streamlit interface
-
-`Python` `SQL` `LangChain` `Gemini` `FAISS` `sqlglot` `Streamlit`
-
----
-
-### [PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)
-
-Hybrid retrieval-augmented generation system for question answering over PDF documents.
-
-- Combines dense FAISS retrieval with BM25 lexical retrieval
-- Uses Reciprocal Rank Fusion and cross-encoder reranking
-- Produces grounded responses with source citations
-- Separates document processing, retrieval, prompting, and application logic
-
-`Python` `RAG` `FAISS` `BM25` `Cross-encoder reranking` `Streamlit`
-
----
-
-### [Sutra](https://github.com/VishwasPrabhakara/sutra)
-
-Multi-agent assistant built for the Gen AI Hackathon APAC 2026.
-
-- Coordinates specialized agents through tool and function calling
-- Includes streaming responses, memory, and Google Workspace integrations
-- Uses a FastAPI backend and React/TypeScript frontend
-- Packaged as an end-to-end cloud application
-
-`Python` `FastAPI` `Gemini` `React` `TypeScript` `Google Cloud`
+| Project | What I Built | Evidence and Stack |
+|---|---|---|
+| **[Bengaluru Groundwater Forecasting](https://github.com/VishwasPrabhakara/Groundwater_Outlook_For_Bengaluru)** | Six-month groundwater forecasting across 37 Bengaluru wards using leakage-safe fixed-origin temporal evaluation. Confidential implementation; public methodology and aggregate-results showcase. | Final test: **R² 0.606**, **MAE 3.63 m**, **RMSE 6.08 m** across 222 predictions.<br/>`Python` `scikit-learn` `XGBoost` |
+| **[DataLens](https://github.com/VishwasPrabhakara/datalens)** | Natural-language database interface with schema retrieval, SQL generation, validation, correction and automatic charts. | Automated tests across retrieval and SQL workflow.<br/> `Python` `SQL` `FAISS` `sqlglot` `Gemini` |
+| **[Sutra](https://github.com/VishwasPrabhakara/sutra)** | Multi-agent assistant with streaming, memory, tool calling and Google Workspace integrations, built for the Gen AI Hackathon APAC 2026. | `FastAPI` `Gemini` `React` `TypeScript` `Google Cloud` |
+| **[PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)** | Hybrid RAG over PDFs combining FAISS, BM25, Reciprocal Rank Fusion and cross-encoder reranking. | Grounded answers with citations. <br/>`Python` `RAG` `FAISS` `BM25` `Streamlit` |
+| **[STIS-V Conference Website](https://github.com/VishwasPrabhakara/STISV)** | Full-stack conference platform developed for STIS-V 2025 at IISc, including participant workflows and document generation. [Backend](https://github.com/VishwasPrabhakara/STISV_Server). | `React` `Node.js` `Express` `REST APIs` |
 
 ---
 
