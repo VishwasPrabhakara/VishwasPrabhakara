@@ -20,7 +20,7 @@ My current work at the **Centre for Sustainable Technologies, Indian Institute o
 | **[DataLens](https://github.com/VishwasPrabhakara/datalens)** | Natural-language database interface with schema retrieval, SQL generation, validation, correction and automatic charts. | Automated tests across retrieval and SQL workflow.<br/> `Python` `SQL` `FAISS` `sqlglot` `Gemini` |
 | **[Sutra](https://github.com/VishwasPrabhakara/sutra)** | Multi-agent assistant with streaming, memory, tool calling and Google Workspace integrations, built for the Gen AI Hackathon APAC 2026. | `FastAPI` `Gemini` `React` `TypeScript` `Google Cloud` |
 | **[PaperLens](https://github.com/VishwasPrabhakara/Chat_with_PDF)** | Hybrid RAG over PDFs combining FAISS, BM25, Reciprocal Rank Fusion and cross-encoder reranking. | Grounded answers with citations. <br/>`Python` `RAG` `FAISS` `BM25` `Streamlit` |
-| **[STIS-V Conference Website](https://github.com/VishwasPrabhakara/STISV)** | Full-stack conference platform developed for STIS-V 2025 at IISc, including participant workflows and document generation. [Backend](https://github.com/VishwasPrabhakara/STISV_Server). | `React` `Node.js` `Express` `REST APIs` |
+| **[STIS-V Conference Website](https://github.com/VishwasPrabhakara/STISV_Server)** | Full-stack conference platform developed for STIS-V 2025 at IISc, including participant workflows and document generation. . | `React` `Node.js` `Express` `REST APIs` |
 
 ---
 
